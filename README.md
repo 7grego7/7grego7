@@ -2,9 +2,7 @@
 
 ## Opa, tudo certo? Este é o meu github!
 
-CEO and Developer From FRP GROUP
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/87XpVNXqwt)
 [![Dev para](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://discord.gg/frpgroup) 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@grego.7) 
 
